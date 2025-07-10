@@ -1,0 +1,1 @@
+Conference Room Booking System Technologies: Java, JSP/Servlets, JDBC, MySQL, HTML/CSS, JavaScript ◾ Designed and developed a web-based Conference Room Booking System using Core Java, JSP/Servlets, and JDBC for efficient room reservation management in corporate environments. ◾ Implemented user authentication and role-based access control.
